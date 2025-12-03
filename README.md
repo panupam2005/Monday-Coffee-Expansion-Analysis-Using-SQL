@@ -23,7 +23,6 @@ Generated clear, actionable recommendations for business expansion.
 Pune, Delhi, and Jaipur were recommended as the top expansion markets due to strong demand, high customer spending, and low operational cost.
 
 Skills Used:
-
 SQL (Joins, CTEs, Window Functions, Aggregations),
 Data Analysis & Business Analytics,
 Market Research & Decision Modeling,
